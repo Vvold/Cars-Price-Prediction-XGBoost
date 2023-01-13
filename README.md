@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/avikasliwal/used-cars-price-prediction
 - Builds Pipeline
 - Getting the best score with Grid Search
 
-Final MSE = 5.359182872694813
+Final MSE = 4.677242371494061
 ## Contacts
 
 ---
